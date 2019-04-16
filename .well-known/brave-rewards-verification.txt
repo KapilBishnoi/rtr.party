@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: rtr.party
+Token: b53764c3d02ff27727632b23d268cbccf56e7b9d52bb99f69c65ad0f298e1ec3
