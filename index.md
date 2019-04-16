@@ -1,4 +1,4 @@
-# Home
+# राईट टू रिकॉल पार्टी
 
 This page is written in *markdown* and rendered as **html** using the `@now/md` builder.
 
