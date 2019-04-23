@@ -6,9 +6,9 @@ The builder runs once so this static deployment will load instantly each page lo
 
 Visit the [about](./about) page or keep reading.
 
-## Ordered Lists
+## विषय सूची
 
-1. First Item
+1. [जीएसटी एवं वेल्थ टेक्स में क्या अंतर है ?](./tax)
 2. Next Item
 3. Last Item
 
