@@ -1,48 +1,9 @@
 # राईट टू रिकॉल पार्टी
 
-This page is written in *markdown* and rendered as **html** using the `@now/md` builder.
-
-The builder runs once so this static deployment will load instantly each page load!
-
-Visit the [about](./about) page or keep reading.
-
 ## विषय सूची
 
-1. [जीएसटी एवं वेल्थ टेक्स में क्या अंतर है ?](./tax)
-2. Next Item
-3. Last Item
-
-## Unordered Lists
-
-* First thing
-* Another thing
-* Last thing
-
-## Task Lists
-
-- [x] I did this one already
-- [ ] Still need to do this one
-
-## Quotes
-
-One of my favorite quotes is
-
-> "Don't quote me on that"
-
-## Code Snippets
-
-```js
-function deploy(name: string) {
-    console.log(`Deploying ${name}...`);
-}
-```
-
-## Images
-
-![zeit logo](https://assets.zeit.co/image/upload/front/assets/design/zeit-black-full-logo.svg)
-
-## Hyperlinks
-
-Visit [ZEIT Now](https://zeit.co/now) to create your global serverless deployments!
-
-Read more about deploying markdown with the [@now/md](https://zeit.co/docs/v2/deployments/official-builders/markdown-now-md) builder.
+1. [जीएसटी एवं वेल्थ टेक्स में क्या अंतर है ?](./Tax)
+2. [आयातित हथियारों में किल स्विच क्या होते हैं , और इसके हमें क्या नुकसान हैं ?](./KillSwitch)
+3. [भारत में देशी गाय की क्या स्थिति है? देशी गाय को कैसे बचाया जा सकता है ?](./Cow)
+4. [इंस्टेंट रन ऑफ़ वोटिंग सिस्टम](./IRV)
+5. [प्रत्यक्ष विदेशी निवेश (FDI) की अनुमति क्यों दी जाती है? इससे हमें क्या फायदे और नुकसान होंगे](./fdi)
