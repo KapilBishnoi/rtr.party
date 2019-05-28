@@ -36,7 +36,7 @@ source : [http://shahidbhagatsingh.org/ind...](http://shahidbhagatsingh.org/inde
  मतलब, जब लोकतंत्र नहीं आया था और सभी भारतीयों के पास वोटिंग राइट्स तक नहीं थे, तब इन महात्माओं ने संकेत भर से यह ताड़ लिया था, कि सिर्फ चुनने का अधिकार होने से कोई बदलाव नहीं आयेगा, बदलाव के लिए यह जरुरी है कि नागरिको के पास प्रतिनिधियों को हटाने का अधिकार भी रहे !! इससे अंदाजा मिलता है कि उनमें कितना सहज कॉमन सेन्स था !!
  .
 
-![https://qph.fs.quoracdn.net/main-qimg-f018c6186eb94af8e1078c27c9a4f89a](file:////Users/kapilbishnoi/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.jpg)
+![https://qph.fs.quoracdn.net/main-qimg-f018c6186eb94af8e1078c27c9a4f89a](https://raw.githubusercontent.com/KapilBishnoi/rtr.party/master/whatisrtr/ChandraShekharAzadSachindraNathSanyal.png)
 
 . 
  पेड मीडिया एवं धनिक वर्ग राइट टू रिकॉल कानूनो के अत्यंत विरोधी है। चूंकि अधिकांश बुद्धिजीवी, पाठ्यपुस्तक लेखक आदि धनिक वर्ग की कृपा पर टिके हुए है, अत: इन सभी बुद्धिजीवियों ने इस बात का पूरा ध्यान रखा है कि समाचार पत्रों और पाठ्यपुस्तकों में राइट टू रिकॉल पर किसी भी प्रकार की जानकारी बिलकुल नही दी जानी चाहिए।।
@@ -109,7 +109,7 @@ source : [https://larouchepub.com/eiw/publ...](https://larouchepub.com/eiw/publi
 **4.1.** ड्राफ्ट विहीन मौखिक समर्थक : अरविन्द केजरीवाल, राहुल गांधी, नितीश कुमार, शिवराज चौहान, जैसे दर्जनों नेता राईट टू रिकॉल का मौखिक समर्थन कर चुके है। पर वे कभी भी इसके साथ पोस्ट का नाम नहीं बोलते, और ड्राफ्ट देने का तो खैर सवाल ही नहीं है। जनरल वी के सिंह जी भी एक टाइम पर राईट टू रिकॉल के ड्राफ्ट विहीन मौखिक समर्थक थे। लेकिन जैसे ही बीजेपी=संघ के टिकेट पर उन्होंने चुनाव जीता, वैसे ही वे राईट टू रिकॉल के विरोधी हो गए। 
   .
 
-![https://qph.fs.quoracdn.net/main-qimg-eee621ccfb0e49c5916ebf358a271f96](file:////Users/kapilbishnoi/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.jpg)
+![https://qph.fs.quoracdn.net/main-qimg-eee621ccfb0e49c5916ebf358a271f96](https://raw.githubusercontent.com/KapilBishnoi/rtr.party/master/whatisrtr/VkSingh.png)
 
 . 
  **4.2.** चिल्लर पदों पर राईट टू रिकॉल के समर्थक : *द अन्ना* इसमें मुख्य रूप से शामिल है। द अन्ना सरपंच और उप सरपंच पर राईट टू रिकॉल का मौखिक समर्थन करते है। किन्तु अन्य सभी पदों पर राईट टू रिकॉल का विरोध करते है। और ड्राफ्ट देने का तो खैर सवाल ही नहीं पैदा होता। पर इस प्रकार का समर्थन भी वे सिर्फ मीडिया में ही करते है, व्यवहार में नहीं।
@@ -190,7 +190,7 @@ source : [https://larouchepub.com/eiw/publ...](https://larouchepub.com/eiw/publi
 
 .
 
-![https://qph.fs.quoracdn.net/main-qimg-ad13e0aec01ff8e31e6d79bce101ebcc](file:////Users/kapilbishnoi/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.jpg)
+![https://qph.fs.quoracdn.net/main-qimg-ad13e0aec01ff8e31e6d79bce101ebcc](https://raw.githubusercontent.com/KapilBishnoi/rtr.party/master/whatisrtr/Democracy.png)
 
 .
  राजनीति के इस पूरे खेल में राजनेताओं का कोई लेना देना नही होता है, और इनकी भूमिका बहुधा एक अभिनेता की होती है। धनिक वर्ग पेड मीडिया एवं चंदा देकर इन्हें जनता के सामने नेता की तरह प्रोजेक्ट करते है, और जनता पेड मीडिया की चाबी में आकर इन्हें वोट करती है। और चुनाव जीतने के बाद वे अगले 5 साल तक ऐसे ऐसे क़ानून छापते है जिससे धनिकों को फायदा हो। 
